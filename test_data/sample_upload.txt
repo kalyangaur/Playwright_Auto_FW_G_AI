@@ -1,0 +1,3 @@
+Playwright Automation Framework - Sample Upload Document
+Demonstrating file upload functionality on DemoQA.
+

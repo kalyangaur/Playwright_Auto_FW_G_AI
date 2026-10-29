@@ -1,0 +1,16 @@
+{
+  "base_url": "https://demoqa.com",
+  "browser": "chromium",
+  "headless": true,
+  "timeout": 30000,
+  "navigation_timeout": 45000,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "slow_mo": 0,
+  "video": "retain-on-failure",
+  "trace": "retain-on-failure",
+  "screenshot": "only-on-failure"
+}
+
